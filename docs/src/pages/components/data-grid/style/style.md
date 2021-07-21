@@ -69,7 +69,7 @@ There are multiple ways to apply a custom CSS class on a cell.
 
 1. Using the`cellClassName` property of `GridColDef`:
 
-This property allows to set a CSS class that is applied on every cell of the column it was defined.
+This property allows you to set a CSS class that is applied on every cell of the column it was defined.
 It can also be a function, which is called with a `GridCellParams` object.
 
 ```tsx
